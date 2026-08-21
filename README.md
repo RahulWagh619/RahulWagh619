@@ -1,4 +1,4 @@
-# Hi there, I'm Rahul 👋
+<h1 align="center">Hi there, I'm Rahul 👋</h1>
 
 ### 🚀 About Me
 - 🔭 I’m currently working on interesting software projects.
